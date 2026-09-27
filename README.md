@@ -25,6 +25,7 @@ def display():
     print("Stack:", stack)
 
 # Demonstration
+
 push(10)
 push(20)
 push(30)
