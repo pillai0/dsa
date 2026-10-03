@@ -585,7 +585,7 @@ def insertion_sort(arr):
 arr = [64, 34, 25, 12, 22, 11, 90]
 
 print("Original Array:", arr)
-print("Sorted Array:", insertion_sort(arr)
+print("Sorted Array:", insertion_sort(arr))
 
 
 # C. Selection Sort 
