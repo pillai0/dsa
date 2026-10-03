@@ -614,7 +614,7 @@ print("Sorted Array:", selection_sort(arr))
 
 
 
-# PRACTICAL NO.: 09
+# PRACTICAL NO.: 09  (ye practical pura eksath run hoga)
 Aim : Sorting Algorithm Performance Comparison:
        1. Merge Sort 
        2. Quick Sort
